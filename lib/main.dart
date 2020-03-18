@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
+// import 'basic_animation_page.dart';
+import 'animated_widget_page.dart';
 
-import 'basic_animation_page.dart';
+// full tutorial
+// https://resocoder.com/2019/08/05/flutter-animation-tutorial-refactoring-with-animatedwidget-animatedbuilder/
 
 void main() => runApp(MyApp());
 
